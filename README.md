@@ -7,6 +7,7 @@ All respective code should be placed in the semester you are working in. This wi
 ---
 
 Code Contributors:
+- Pranesh Velmurugan - Computer Vision
 - Dan English - Robot Movement files, Chess Algorithm
 - Aaron Lovell - Voice recognition
 - Adam Piaseczny - Command Center files, Chess Algorithm
